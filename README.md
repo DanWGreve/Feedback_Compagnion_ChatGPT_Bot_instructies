@@ -1,0 +1,2 @@
+# Feedback_Compagnion_ChatGPT_Bot_instructies
+Instructies voor test
